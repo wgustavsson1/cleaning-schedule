@@ -1,5 +1,4 @@
 
-
 function createSchedule()
 {
   var pairs = ["C14.C15", "C16.C17", "C10.C11", "C12.C13"];
