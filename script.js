@@ -75,6 +75,5 @@ $( document ).ready(function() {
       weeknumber = getNextWeek(weeknumber,1)
       showSchedule(1,weeknumber);
       $('html, body').scrollTop($(document).height());
-    })
-
+    });
 });
